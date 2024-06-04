@@ -1,6 +1,6 @@
-# Noom
+# Socket
 
-Zoom Clone using nodejs, WebRTC and Websockets.
+practice of Websockets and Socet.io.
 
 
 ### Socket IO
